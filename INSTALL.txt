@@ -1,0 +1,5 @@
+To install the Trouble game, download the zip file. Then, in terminal navigate to the directory where it is located
+and run the command "unzip trouble.zip".
+
+Run the command "make trouble". This will load up the start screen. Follow instruction on start screen,
+and then the game board will display and the game can be played. 
